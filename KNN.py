@@ -33,6 +33,6 @@ for m in range(0,k-1):
             b1 = b1 + 1
 
 if(a1>b1):
-    print("The point belongs to cluster1")
+    print("The point belongs to Cluster1")
 elif(b1>a1):
-    print("The point belongs to cluster2")
+    print("The point belongs to Cluster2")
